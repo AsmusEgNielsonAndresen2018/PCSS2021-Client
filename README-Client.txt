@@ -1,7 +1,6 @@
 Project name: TicTacToe game
 Student: Asmus Andresen
-Group: 308
-Course                       : Programming of Complex Software Systems
+Course: Programming of Complex Software Systems
 Link to client repository: https://github.com/AsmusEgNielsonAndresen2018/PCSS2021-Client
 Link to server repository: https://github.com/AsmusEgNielsonAndresen2018/PCSS2021-Server
 Scrum backlog included in Scrum folder of client and server repositories.
